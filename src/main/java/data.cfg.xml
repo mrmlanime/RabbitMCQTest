@@ -7,7 +7,7 @@
               <!-- Sample MySQL URL provided  -->  
         <property name="connection.url">jdbc:mysql://127.0.0.1:3306/data_db</property>
         <property name="connection.username">ADMIN</property>
-        <property name="connection.password">amazinggraceMARK1990</property>
+        <property name="connection.password">-----</property>
            
         <!-- Show SQL on console -->
         <property name="show_sql">true</property>
